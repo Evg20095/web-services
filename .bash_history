@@ -1,0 +1,2 @@
+pyrhon -u
+exit
